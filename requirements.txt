@@ -1,1 +1,7 @@
-streamlit==1.42.0
+streamlit==1.24.0
+rembg==2.0.32
+Pillow==9.3.0
+numpy==1.23.5
+scipy==1.9.3
+onnxruntime==1.14.1
+opencv-python-headless==4.6.0.66
